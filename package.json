@@ -30,7 +30,7 @@
     "url": "https://github.com/eugeneware/gifencoder/issues"
   },
   "dependencies": {
-    "canvas": "^2.2.0"
+    "canvas": "^2.8.0"
   },
   "devDependencies": {
     "after": "~0.8.1",
